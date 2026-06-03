@@ -130,12 +130,12 @@ function CityCard({ city }: { city: typeof siteConfig.cities[number] }) {
               className="inline-flex items-center gap-2 font-semibold text-[15px] transition-colors duration-200 group/link"
               style={{ color: 'var(--accent-dk)' }}
             >
-              Découvrir notre offre à {city.name}
+              Découvrir notre offre
               <span className="transition-transform duration-200 group-hover/link:translate-x-[3px]">→</span>
             </Link>
           ) : (
             <span className="inline-flex items-center gap-2 font-semibold text-[15px]" style={{ color: 'var(--muted)' }}>
-              Découvrir notre offre à {city.name} →
+              Découvrir notre offre →
             </span>
           )}
         </div>
