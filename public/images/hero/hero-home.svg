@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#e8e8e8"/>
+  <line x1="0" y1="0" x2="1920" y2="1080" stroke="#d0d0d0" stroke-width="1.5"/>
+  <line x1="1920" y1="0" x2="0" y2="1080" stroke="#d0d0d0" stroke-width="1.5"/>
+  <text x="960" y="511.2" text-anchor="middle" dominant-baseline="middle"
+    font-family="system-ui, -apple-system, sans-serif" font-size="36" fill="#888" font-weight="600">hero-home.jpg</text>
+  <text x="960" y="564.3" text-anchor="middle" dominant-baseline="middle"
+    font-family="system-ui, -apple-system, sans-serif" font-size="27" fill="#aaa">1920 × 1080</text>
+</svg>

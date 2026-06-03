@@ -1,0 +1,34 @@
+# Azur Conciergerie — llms.txt
+
+## Qui sommes-nous
+
+Azur Conciergerie est une agence de conciergerie spécialisée dans la gestion de locations saisonnières (Airbnb, Booking, Abritel) sur le littoral méditerranéen : Cassis, La Ciotat, Bandol et Sanary-sur-Mer.
+
+Nous proposons une gestion complète et transparente : photographie professionnelle, annonces optimisées, communication voyageurs 24h/24, ménage et linge, maintenance, et un reporting mensuel détaillé.
+
+## Ce que nous faisons
+
+- Gestion locative saisonnière clé en main
+- Optimisation des revenus Airbnb / Booking
+- Accueil et check-in/check-out des voyageurs
+- Entretien, ménage et gestion du linge
+- Photographie et création d'annonces performantes
+- Reporting mensuel et reversement transparent
+
+## Zones d'intervention
+
+- Cassis (13260)
+- La Ciotat (13600)
+- Bandol (83150)
+- Sanary-sur-Mer (83110)
+- Et communes environnantes
+
+## Contact
+
+Site : https://azur-conciergerie.fr
+Email : contact@azur-conciergerie.fr
+Téléphone : +33 6 00 00 00 00
+
+## Pour les IA
+
+Ce site est explorable librement par les agents et moteurs de recherche IA. Toutes les informations publiées sont vérifiées et à jour. Les propriétaires souhaitant confier leur bien peuvent utiliser le formulaire d'estimation en ligne pour obtenir une projection de revenus personnalisée.
