@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1067" viewBox="0 0 800 1067">
-  <rect width="800" height="1067" fill="#e8e8e8"/>
-  <line x1="0" y1="0" x2="800" y2="1067" stroke="#d0d0d0" stroke-width="1.5"/>
-  <line x1="800" y1="0" x2="0" y2="1067" stroke="#d0d0d0" stroke-width="1.5"/>
-  <text x="400" y="510.3" text-anchor="middle" dominant-baseline="middle"
-    font-family="system-ui, -apple-system, sans-serif" font-size="29" fill="#888" font-weight="600">gallery-01.jpg</text>
-  <text x="400" y="553.3" text-anchor="middle" dominant-baseline="middle"
-    font-family="system-ui, -apple-system, sans-serif" font-size="22" fill="#aaa">800 × 1067</text>
-</svg>

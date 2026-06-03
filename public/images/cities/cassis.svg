@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1267" viewBox="0 0 1900 1267">
-  <rect width="1900" height="1267" fill="#e8e8e8"/>
-  <line x1="0" y1="0" x2="1900" y2="1267" stroke="#d0d0d0" stroke-width="1.5"/>
-  <line x1="1900" y1="0" x2="0" y2="1267" stroke="#d0d0d0" stroke-width="1.5"/>
-  <text x="950" y="604.7" text-anchor="middle" dominant-baseline="middle"
-    font-family="system-ui, -apple-system, sans-serif" font-size="36" fill="#888" font-weight="600">cassis.jpg</text>
-  <text x="950" y="657.8" text-anchor="middle" dominant-baseline="middle"
-    font-family="system-ui, -apple-system, sans-serif" font-size="27" fill="#aaa">1900 × 1267</text>
-</svg>
