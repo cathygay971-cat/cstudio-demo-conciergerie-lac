@@ -101,8 +101,8 @@ function CityCard({ city }: { city: typeof siteConfig.cities[number] }) {
 
       {/* Contenu */}
       <div className="p-6 flex flex-col flex-1">
-        <h2 className="font-display font-medium text-[22px] mb-2" style={{ color: 'var(--ink)' }}>
-          Conciergerie {city.name}
+        <h2 className="font-display font-medium text-[22px] mb-2 min-h-[2.4em]" style={{ color: 'var(--ink)' }}>
+          {city.name}
         </h2>
         <p className="text-[15px] mb-5 line-clamp-2" style={{ color: 'var(--muted)' }}>
           {city.subline}
